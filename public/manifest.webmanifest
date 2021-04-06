@@ -15,7 +15,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "/",
+    "start_url": "infinite-basin-55228.herokuapp.com",
     "display": "standalone"
   }
   
