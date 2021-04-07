@@ -12,7 +12,7 @@ As an avid traveller I want to be able to track my withdrawals and deposits with
 * [Mongoose](https://mongoosejs.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [MongoDBAtlas](https://www.mongodb.com/cloud/atlas/)
-* [WebAppManifest] (https://developer.mozilla.org/en-US/docs/Web/Manifest) 
+* [WebAppManifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) 
 
 # Screenshot:
 
