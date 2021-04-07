@@ -16,5 +16,5 @@ As an avid traveller I want to be able to track my withdrawals and deposits with
 
 # Screenshot:
 
-![alttext](assets/images/budget_tracker.png)
+![alttext](public/assets/images/budget_tracker.png)
 
